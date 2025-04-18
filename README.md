@@ -1,1 +1,2 @@
-# student_record_system_in_c
+# Student Record System Using Data
+Structure in C
